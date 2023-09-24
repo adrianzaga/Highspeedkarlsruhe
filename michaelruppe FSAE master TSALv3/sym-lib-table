@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TSAL-HVM")(type "Legacy")(uri "${KIPRJMOD}/TSAL-HVM.lib")(options "")(descr ""))
+  (lib (name "power-symbol-library")(type "Legacy")(uri "${KIPRJMOD}/power-symbol-library.lib")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
+)
